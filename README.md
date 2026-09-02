@@ -1,16 +1,72 @@
-## Hi there 👋
-
-<!--
-**guilhermearaujopv/guilhermearaujopv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 Guilherme Araujo Vieira
+ 
+**`Estudante de Engenharia de Software`**
+ 
+Me chamo Guilherme Araujo Vieira, Tenho 20 anos e moro em Nova Iguaçu, Rio de janeiro . Sou técnico em Informática pela Escola Técnica 3D Colégios (concluído no ensino médio) e atualmente curso Engenharia de Software na Universidade Estácio de Sá (UNESA). Tenho interesse especial na área de dados, buscando unir desenvolvimento de software com análise e engenharia de dados.
+ 
+<p align="left">
+    <a href="https://github.com/guilhermearaujopv?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/guilhermearaujopv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/guilhermearaujopv?tab=followers">
+        <img 
+            alt="Seguidores GitHub" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/guilhermearaujopv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/guilhermearaujopv">
+        <img 
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/guilheermepv/">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/Instagram-Siga--me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+</p>
+---
+ 
+### 🔭 O que estou fazendo agora
+ 
+- 🎓 Cursando Engenharia de Software na UNESA
+- 📊 Aprofundando conhecimentos em dados (análise e engenharia de dados)
+- 💻 Praticando desenvolvimento com Python, HTML, CSS e PHP
+- 💼 Aberto a oportunidades na área de tecnologia
+---
+ 
+### 🤖 Linguagens e Tecnologias
+ 
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<br/>
+<br/>
+### 📊 Estatísticas
+ 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=guilhermearaujopv&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermearaujopv&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+<br clear="both"/>
