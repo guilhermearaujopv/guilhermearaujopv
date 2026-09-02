@@ -2,7 +2,7 @@
  
 **`Estudante de Engenharia de Software`**
  
-Me chamo Guilherme Araujo Vieira, Tenho 20 anos e moro em Nova Iguaçu, Rio de janeiro . Sou técnico em Informática pela Escola Técnica 3D Colégios (concluído no ensino médio) e atualmente curso Engenharia de Software na Universidade Estácio de Sá (UNESA). Tenho interesse especial na área de dados, buscando unir desenvolvimento de software com análise e engenharia de dados.
+Me chamo Guilherme Araujo Pimenta,Tenho 20 anos e moro em Nova Iguaçu, RJ. Minha trajetória em tecnologia começou ainda no ensino médio, com o técnico em Informática pela Escola Técnica 3D Colégios, e hoje sigo evoluindo como estudante de Engenharia de Software na Universidade Estácio de Sá (UNESA). Tenho um interesse particular pela área de dados e venho direcionando meus estudos para unir desenvolvimento de software a análise e engenharia de dados, na busca por construir soluções mais completas e orientadas por dados.
  
 <p align="left">
     <a href="https://github.com/guilhermearaujopv?tab=repositories&sort=stargazers">
