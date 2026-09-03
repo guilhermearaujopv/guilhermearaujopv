@@ -52,15 +52,7 @@ Me chamo Guilherme Araujo Pimenta,Tenho 20 anos e moro em Nova Iguaçu, Rio de J
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <br/>
 <br/>
-### 📊 Estatísticas
- 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=guilhermearaujopv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=guilhermearaujopv&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=guilhermearaujopv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=guilhermearaujopv&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br clear="both"/>
