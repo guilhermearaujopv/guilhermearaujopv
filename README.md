@@ -54,19 +54,13 @@ Me chamo Guilherme Araujo Pimenta,Tenho 20 anos e moro em Nova Iguaçu, Rio de J
 <br/>
 ### 📊 Estatísticas
  
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermearaujopv&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermearaujopv&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=guilhermearaujopv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=guilhermearaujopv&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=guilhermearaujopv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=guilhermearaujopv&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br clear="both"/>
