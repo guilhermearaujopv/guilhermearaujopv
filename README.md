@@ -2,7 +2,7 @@
  
 **`Estudante de Engenharia de Software`**
  
-Me chamo Guilherme Araujo Pimenta,Tenho 20 anos e moro em Nova Iguaçu, Rio de Janeiro. Minha trajetória em tecnologia começou ainda no ensino médio, com o técnico em Informática pela Escola Técnica 3D Colégios, e hoje sigo evoluindo como estudante de Engenharia de Software na Universidade Estácio de Sá (UNESA). Tenho um interesse particular pela área de dados e venho direcionando meus estudos para unir desenvolvimento de software a análise e engenharia de dados, na busca por construir soluções mais completas e orientadas por dados.
+Me chamo Guilherme Araujo Pimenta,Tenho 20 anos e moro em Nova Iguaçu, Rio de Janeiro. Minha trajetória em tecnologia começou ainda no ensino médio, com o curso técnico em Informática pela Escola Técnica 3D Colégios, e hoje sigo evoluindo como estudante de Engenharia de Software na Universidade Estácio de Sá (UNESA). Tenho um interesse particular pela área de dados e venho direcionando meus estudos para unir desenvolvimento de software a análise e engenharia de dados, na busca por construir soluções mais completas e orientadas por dados.
  
 <p align="left">
     <a href="https://github.com/guilhermearaujopv?tab=repositories&sort=stargazers">
