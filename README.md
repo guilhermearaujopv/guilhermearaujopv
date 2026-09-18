@@ -38,7 +38,7 @@ Me chamo Guilherme Araujo Pimenta,Tenho 20 anos e moro em Nova Iguaçu, Rio de J
  
 ### 🔭 O que estou fazendo agora
  
-- 🎓 Cursando Engenharia de Software na UNESA
+- 🎓 Cursando Engenharia de Software na Estácio
 - 📊 Aprofundando conhecimentos em dados (análise e engenharia de dados)
 - 💻 Praticando desenvolvimento com Python, HTML, CSS e PHP
 - 💼 Aberto a oportunidades na área de tecnologia
